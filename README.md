@@ -156,6 +156,15 @@ mohon laporkan lewat *Issues*.
 | 11.8 | `bab11/mcts.py` | MCTS bermain tic-tac-toe |
 | 12.1 | `bab12/som.py` | Self-organizing map satu dimensi pada data cincin |
 
+## Pernyataan penggunaan AI
+
+Mengikuti pedoman COPE: kode dan dokumentasi di repositori ini disusun dengan
+bantuan **Claude** (Anthropic), yang dipakai untuk menyusun draf kode,
+menjalankan percobaan, dan merangkum keluarannya. Alat AI tidak dicantumkan
+sebagai penulis. Seluruh kode telah ditinjau dan dijalankan ulang secara
+independen oleh penulis, dan penulis bertanggung jawab penuh atas seluruh isi
+repositori ini.
+
 ## Lisensi
 
 - Kode di repositori ini: **MIT License** (lihat `LICENSE`). Seluruh kode
