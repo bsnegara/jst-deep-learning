@@ -1,0 +1,2 @@
+Lapisan penuh (303 param): latih = 0.763  uji = 0.343
+CNN kecil      (55 param): latih = 0.982  uji = 0.965

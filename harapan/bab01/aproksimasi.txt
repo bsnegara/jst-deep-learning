@@ -1,0 +1,5 @@
+  2 unit  galat maksimum = 1.0022
+  4 unit  galat maksimum = 0.7017
+  8 unit  galat maksimum = 0.2827
+ 16 unit  galat maksimum = 0.0731
+ 64 unit  galat maksimum = 0.0060

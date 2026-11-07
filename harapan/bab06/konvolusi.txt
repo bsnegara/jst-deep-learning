@@ -1,0 +1,7 @@
+Keluaran (stride 1, tanpa padding):
+ [[ 0. -3. -3.  0.]
+ [ 0. -3. -3.  0.]
+ [ 0. -3. -3.  0.]
+ [ 0. -3. -3.  0.]]
+Ukuran dengan pad=1   : (6, 6)
+Ukuran dengan stride=2: (2, 2)

@@ -1,0 +1,3 @@
+gradien eksak       : 3.000
+reparameterisasi : rata-rata 3.009, simpangan baku 0.625
+fungsi skor      : rata-rata 2.981, simpangan baku 2.214

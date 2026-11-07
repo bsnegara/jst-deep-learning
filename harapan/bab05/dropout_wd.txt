@@ -1,0 +1,3 @@
+tanpa regularisasi  akurasi latih = 0.933  uji = 0.785
+weight decay 1e-3   akurasi latih = 0.860  uji = 0.870
+dropout p=0.5       akurasi latih = 0.867  uji = 0.864

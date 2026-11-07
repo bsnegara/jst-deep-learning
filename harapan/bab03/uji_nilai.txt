@@ -1,0 +1,8 @@
+f = 64, df/dx = 64, df/dy = 32
+L = 0.0300, dL/dw1 = 0.1151, dL/dw2 = 0.1525
+langkah    0  loss = 1.0004
+langkah  500  loss = 0.0038
+langkah 1000  loss = 0.0015
+langkah 1500  loss = 0.0009
+langkah 2000  loss = 0.0007
+Prediksi: [0.014, 0.984, 0.992, 0.013]

@@ -1,0 +1,8 @@
+Norma gradien yang sampai ke t=0 (sebelum pelatihan):
+   T   RNN biasa   LSTM b_f=1   LSTM b_f=3
+  10     2.5e-01      8.8e-02      4.9e-01
+  30     1.5e-02      4.4e-02      2.4e+00
+ 100     4.6e-07      2.6e-03      3.8e+00
+Berhasil (akurasi > 0.9) dari 5 seed, T = 100:
+  RNN biasa  : 0/5
+  LSTM b_f=3 : 5/5

@@ -1,0 +1,1 @@
+Gradien LSTM lolos pemeriksaan (galat < 1e-6): True

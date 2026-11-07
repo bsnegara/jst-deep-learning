@@ -1,0 +1,4 @@
+bobot : [[0.017 0.971 0.011 0.   ]]  keluaran: [[19.94]]
+d=  4  std(q.k)=  2.04   bobot maks: tanpa 0.40, dengan 0.23
+d= 64  std(q.k)=  7.90   bobot maks: tanpa 0.90, dengan 0.32
+d=512  std(q.k)= 22.84   bobot maks: tanpa 0.96, dengan 0.28

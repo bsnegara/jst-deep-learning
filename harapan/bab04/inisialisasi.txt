@@ -1,0 +1,5 @@
+aktivasi skema    std h(20)   std grad masukan
+tanh     kecil     1.17e-16     1.16e-16
+tanh     Xavier    1.69e-01     1.97e-01
+relu     Xavier    5.59e-04     9.54e-04
+relu     He        6.86e-01     8.85e-01

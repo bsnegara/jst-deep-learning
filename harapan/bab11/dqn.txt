@@ -1,0 +1,6 @@
+kebijakan acak      : panjang episode =  22.6
+langkah  4000 (eps=0.20): panjang episode = 170.8
+langkah  8000 (eps=0.05): panjang episode = 229.8
+langkah 12000 (eps=0.05): panjang episode = 240.9
+langkah 16000 (eps=0.05): panjang episode = 179.6
+langkah 20000 (eps=0.05): panjang episode = 225.7

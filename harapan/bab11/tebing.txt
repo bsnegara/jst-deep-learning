@@ -1,0 +1,3 @@
+metode      return (100 ep. terakhir)  jalur serakah
+Q-learning                   -39.0  13 langkah, sampai baris 2
+SARSA                        -20.4  17 langkah, sampai baris 0

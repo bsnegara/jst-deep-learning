@@ -1,0 +1,6 @@
+Selisih gradien analitis vs numerik: 9.7e-11
+langkah   0  loss = 1.2699
+langkah 100  loss = 0.0872
+langkah 200  loss = 0.0838
+langkah 300  loss = 0.0830
+Akurasi latih: 0.978

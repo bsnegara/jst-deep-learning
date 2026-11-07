@@ -1,0 +1,8 @@
+iterasi    10: selisih momen = 3.8e-02, galat bobot = 1.9e+00
+iterasi  1000: selisih momen = 9.3e-04, galat bobot = 3.3e-01
+iterasi 20000: selisih momen = 1.3e-07, galat bobot = 1.9e-04
+w     P(mayoritas 1) eksak   Gibbs 2000 sapuan dari 0
+0.3                   0.50                       0.49
+0.6                   0.50                       0.51
+1.0                   0.50                       0.52
+1.5                   0.50                       0.00

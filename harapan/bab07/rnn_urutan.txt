@@ -1,0 +1,1 @@
+Gradien W benar: True, gradien h0 benar: True

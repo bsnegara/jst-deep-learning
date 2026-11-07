@@ -1,0 +1,2 @@
+Grad W1 sama (selisih < 1e-12): True
+Grad W2 sama (selisih < 1e-12): True

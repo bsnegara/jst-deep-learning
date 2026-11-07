@@ -1,0 +1,4 @@
+BN=False laju=0.1  loss=1.099  akurasi=0.523
+BN=False laju=1.0  loss=1.099  akurasi=0.527
+BN=True  laju=0.1  loss=0.005  akurasi=1.000
+BN=True  laju=1.0  loss=0.000  akurasi=1.000

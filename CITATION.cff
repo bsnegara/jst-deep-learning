@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Bila memakai kode ini, silakan sitasi sebagai berikut."
+title: "Jaringan Saraf Tiruan dan Deep Learning: Kode Pendamping"
+type: software
+authors:
+  - family-names: Negara
+    given-names: Benny Sukma
+    orcid: "https://orcid.org/0000-0001-8455-0912"
+    affiliation: "Program Studi Teknik Informatika, UIN Sultan Syarif Kasim Riau"
+version: "1.0.0"
+date-released: "2026-11-07"
+license: MIT
+repository-code: "https://github.com/bsnegara/jst-deep-learning"
+keywords:
+  - neural networks
+  - deep learning
+  - NumPy
+  - pendidikan
+  - bahasa Indonesia
+abstract: >-
+  Kode pendamping buku "Jaringan Saraf Tiruan dan Deep Learning: Teori,
+  Algoritma, dan Implementasi dari Nol": 75 listing NumPy yang ditulis dari
+  nol dan skrip verifikasi yang mencocokkan setiap keluaran dengan buku.

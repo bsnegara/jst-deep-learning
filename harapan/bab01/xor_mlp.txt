@@ -1,0 +1,13 @@
+Lapisan tersembunyi:
+ [[0. 0.]
+ [1. 0.]
+ [1. 0.]
+ [1. 1.]]
+Keluaran (tangan)  : [0. 1. 1. 0.]
+langkah    0  loss = 0.7566
+langkah 1000  loss = 0.0164
+langkah 2000  loss = 0.0060
+langkah 3000  loss = 0.0037
+langkah 4000  loss = 0.0026
+langkah 5000  loss = 0.0020
+Prediksi (dipelajari): [0.002 0.998 0.998 0.002]

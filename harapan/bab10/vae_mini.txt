@@ -1,0 +1,7 @@
+langkah    0  rekonstruksi  180.03  KL 0.40  -ELBO  180.44
+langkah 2000  rekonstruksi    1.41  KL 3.13  -ELBO    4.54
+langkah 4000  rekonstruksi    1.14  KL 3.14  -ELBO    4.28
+langkah 6000  rekonstruksi    1.18  KL 3.21  -ELBO    4.39
+langkah 8000  rekonstruksi    1.27  KL 3.18  -ELBO    4.45
+Sampel baru: jarak rata-rata ke lingkaran = 0.004
+  bagian yang jatuh di busur data (0-270 derajat): 0.992

@@ -1,0 +1,6 @@
+# Semua listing buku hanya membutuhkan NumPy;
+# scikit-learn dipakai untuk dataset digits (Bab 6).
+numpy>=1.26
+scikit-learn>=1.4
+# Opsional: hanya untuk bab03/verifikasi_torch.py
+# torch>=2.4

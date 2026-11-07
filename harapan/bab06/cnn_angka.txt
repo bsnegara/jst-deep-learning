@@ -1,0 +1,2 @@
+Gradien lolos pemeriksaan (galat < 1e-6): True
+CNN (1898 parameter): akurasi uji = 0.97
