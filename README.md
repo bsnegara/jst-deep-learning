@@ -6,7 +6,7 @@ Kode dan perangkat verifikasi untuk buku
 Buku ini adalah pasangan teori bagi
 [_Deep Learning dengan Python_](https://github.com/bsnegara/deep-learning-dengan-python).
 
-<!-- DOI Zenodo: tambahkan lencana di sini setelah rilis pertama -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24034906.svg)](https://doi.org/10.5281/zenodo.24034906)
 
 > *Companion code for an Indonesian-language neural networks textbook: 75
 > from-scratch NumPy listings (backpropagation, CNN, RNN/LSTM/GRU, a trainable
@@ -166,4 +166,5 @@ mohon laporkan lewat *Issues*.
 ## Sitasi
 
 Bila memakai kode ini, silakan sitasi melalui berkas `CITATION.cff`
-(tombol **Cite this repository** di GitHub).
+(tombol **Cite this repository** di GitHub) atau DOI Zenodo:
+[10.5281/zenodo.24034906](https://doi.org/10.5281/zenodo.24034906).
