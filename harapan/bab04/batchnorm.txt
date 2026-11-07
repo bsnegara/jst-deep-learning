@@ -1,0 +1,2 @@
+Galat relatif gradien BatchNorm: 2.9e-09
+Jumlah kolom gX (harus 0): 1.1e-15

@@ -1,0 +1,6 @@
+alfa_bar[T] = 3.5e-04 (hampir derau murni)
+langkah 0  loss = 1.090
+langkah 4000  loss = 0.312
+langkah 8000  loss = 0.302
+dekat -2: 0.49, dekat +2: 0.51, lainnya: 0.00
+simpangan baku tiap mode: 0.30, 0.32 (data: 0.30)

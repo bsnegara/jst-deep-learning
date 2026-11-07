@@ -1,0 +1,4 @@
+langkah  500  loss/karakter = 0.13
+langkah 1000  loss/karakter = 0.13
+langkah 1500  loss/karakter = 0.14
+serakah: 'model belajar pola dari data, dan pola membant'

@@ -1,0 +1,5 @@
+epoch    0  RMSE latih = 1.653  RMSE uji = 1.634
+epoch  500  RMSE latih = 0.014  RMSE uji = 0.049
+epoch 1000  RMSE latih = 0.014  RMSE uji = 0.074
+epoch 1500  RMSE latih = 0.014  RMSE uji = 0.096
+epoch 2000  RMSE latih = 0.015  RMSE uji = 0.106

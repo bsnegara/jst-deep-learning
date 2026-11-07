@@ -1,0 +1,6 @@
+Galat relatif gradien W1: 7.8e-10
+langkah    0  loss = 1.0511
+langkah 1000  loss = 0.0031
+langkah 2000  loss = 0.0012
+langkah 3000  loss = 0.0007
+Akurasi latih: 1.000

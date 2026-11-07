@@ -1,0 +1,2 @@
+Selisih maksimum   : 4.4e-16
+Selisih dengan ReLU: 0.908

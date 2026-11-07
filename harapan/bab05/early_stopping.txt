@@ -1,0 +1,8 @@
+langkah    0  akurasi latih = 0.460  validasi = 0.427
+langkah 1000  akurasi latih = 0.807  validasi = 0.830
+langkah 2000  akurasi latih = 0.867  validasi = 0.787
+langkah 3000  akurasi latih = 0.873  validasi = 0.753
+langkah 4000  akurasi latih = 0.913  validasi = 0.760
+langkah 5000  akurasi latih = 0.933  validasi = 0.753
+langkah 6000  akurasi latih = 0.933  validasi = 0.743
+Terbaik: langkah 200, akurasi validasi 0.897

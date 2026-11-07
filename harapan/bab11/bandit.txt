@@ -1,0 +1,4 @@
+Langkah 501-1000, rata-rata atas 2000 masalah:
+serakah      hadiah rata-rata = 1.039, aksi optimal = 0.37
+eps-serakah  hadiah rata-rata = 1.358, aksi optimal = 0.78
+UCB          hadiah rata-rata = 1.472, aksi optimal = 0.84

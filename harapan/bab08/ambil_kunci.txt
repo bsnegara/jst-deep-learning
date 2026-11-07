@@ -1,0 +1,2 @@
+sebelum: MSE = 0.833, atensi tepat sasaran = 0.093
+sesudah: MSE = 0.220, atensi tepat sasaran = 0.831

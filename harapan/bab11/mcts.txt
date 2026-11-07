@@ -1,0 +1,4 @@
+acak  vs acak  (200 laga): X menang 0.58, O menang 0.29, seri 0.12
+MCTS  vs acak  ( 50 laga): X menang 0.96, O menang 0.00, seri 0.04
+acak  vs MCTS  ( 50 laga): X menang 0.02, O menang 0.86, seri 0.12
+MCTS  vs MCTS  ( 20 laga): X menang 0.25, O menang 0.00, seri 0.75

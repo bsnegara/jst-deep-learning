@@ -1,0 +1,5 @@
+iterasi  40  panjang episode rata-rata =   74.0
+iterasi  80  panjang episode rata-rata =  297.9
+iterasi 120  panjang episode rata-rata =  228.2
+iterasi 160  panjang episode rata-rata =  500.0
+iterasi 200  panjang episode rata-rata =  274.3

@@ -1,0 +1,5 @@
+panjang episode rata-rata: 116
+penduga           varians relatif   cos ke arah REINFORCE
+REINFORCE                    1.00       1.00
+dengan baseline              0.31       1.00
+actor-critic                 0.09       0.99

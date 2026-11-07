@@ -1,0 +1,3 @@
+Galat relatif grad W: 1.9e-10
+Galat relatif grad X: 9.4e-10
+Selisih dengan konvolusi transpos: 2.2e-16

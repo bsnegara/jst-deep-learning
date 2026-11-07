@@ -1,0 +1,6 @@
+Gradien GRU lolos pemeriksaan: True
+Norma gradien di t=0 (sebelum pelatihan):
+   T   GRU b_z=0   GRU b_z=-3
+  10     1.4e-02      5.9e-01
+  30     5.9e-06      2.4e-01
+ 100     1.1e-17      2.3e-02

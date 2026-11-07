@@ -1,0 +1,6 @@
+dL/dWhh[3,5]: analitis 0.077402, numerik 0.077402
+iterasi    0  loss/karakter = 3.020
+iterasi 1000  loss/karakter = 0.005
+iterasi 2000  loss/karakter = 0.002
+iterasi 3000  loss/karakter = 0.005
+Sampel: 'data yang baik membuat model yang baik belajar dari data'

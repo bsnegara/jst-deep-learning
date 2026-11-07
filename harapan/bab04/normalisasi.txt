@@ -1,0 +1,2 @@
+asli          kappa =    8563.9   langkah = 118307
+distandarkan  kappa =       1.0   langkah = 3

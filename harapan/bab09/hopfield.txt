@@ -1,0 +1,16 @@
+Pola T yang dirusak, energi = -1.440
+  ..###
+  #....
+  #....
+  .##..
+  ..#..
+  sapuan 1: energi = -12.000
+  sapuan 2: energi = -12.000
+  sapuan 3: energi = -12.000
+Hasil:
+  #####
+  ..#..
+  ..#..
+  ..#..
+  ..#..
+Sama dengan pola T asli? True

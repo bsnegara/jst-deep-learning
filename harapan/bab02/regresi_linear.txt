@@ -1,0 +1,3 @@
+Persamaan normal : [ 2.9849 -1.9642  0.9992]
+Penurunan gradien: [ 2.9849 -1.9642  0.9992]
+MSE akhir        : 0.0885

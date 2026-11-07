@@ -1,0 +1,3 @@
+perceptron   w = [0.11  0.078], b = +0.029, akurasi = 0.970
+SVM (hinge)  w = [1.244 1.115], b = -0.065, akurasi = 0.970
+logistik     w = [1.799 1.426], b = +0.004, akurasi = 0.980

@@ -1,0 +1,3 @@
+kucing  -> ['anjing', 'sofa', 'dapur']
+mobil   -> ['motor', 'garasi', 'jalan']
+minum   -> ['tidur', 'halaman', 'dapur']

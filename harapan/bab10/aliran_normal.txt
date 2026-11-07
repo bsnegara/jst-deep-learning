@@ -1,0 +1,4 @@
+langkah 2000: NLL latih = -0.01 nat
+langkah 4000: NLL latih = 0.01 nat
+NLL uji: aliran = 0.05, Gauss = 2.00
+sampel di busur (r 0.8-1.2, 0-270 derajat): 0.98

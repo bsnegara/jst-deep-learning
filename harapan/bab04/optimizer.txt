@@ -1,0 +1,10 @@
+SGD       t= 300  f = 3.10e+00  jarak ke (1,1) = 1.807
+SGD       t=3000  f = 2.49e-02  jarak ke (1,1) = 0.331
+Momentum  t= 300  f = 1.19e-02  jarak ke (1,1) = 0.234
+Momentum  t=3000  f = 1.47e-12  jarak ke (1,1) = 0.000
+AdaGrad   t= 300  f = 2.08e+00  jarak ke (1,1) = 1.648
+AdaGrad   t=3000  f = 2.50e-03  jarak ke (1,1) = 0.110
+RMSProp   t= 300  f = 3.20e-01  jarak ke (1,1) = 0.981
+RMSProp   t=3000  f = 2.23e-02  jarak ke (1,1) = 0.058
+Adam      t= 300  f = 1.22e+00  jarak ke (1,1) = 1.482
+Adam      t=3000  f = 5.13e-19  jarak ke (1,1) = 0.000

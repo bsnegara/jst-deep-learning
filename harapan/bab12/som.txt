@@ -1,0 +1,3 @@
+Galat kuantisasi rata-rata: 0.100
+Jari-jari neuron: 0.86 - 0.88
+Neuron bertetangga tetap bertetangga di cincin: True

@@ -1,0 +1,7 @@
+pola data: 30, LL terbaik = -3.401, LL acak seragam = -11.090
+epoch     0  log-likelihood = -11.092
+epoch  5000  log-likelihood = -5.263
+epoch 10000  log-likelihood = -5.179
+epoch 15000  log-likelihood = -5.545
+epoch 20000  log-likelihood = -5.919
+Sampel yang merupakan pola sah: 0.865, pola berbeda: 22 dari 30

@@ -1,0 +1,2 @@
+RNN satu arah : akurasi = 0.50
+RNN dua arah  : akurasi = 1.00
